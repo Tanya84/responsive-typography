@@ -71,7 +71,7 @@ blockquote {
 
   article {
     padding: 1rem;
-}
+  }
 
   blockquote {
     margin-right: -2.5rem;
@@ -81,11 +81,7 @@ blockquote {
   article > p:last-child {
     padding-bottom: .5rem;
   }
-  
-
-
 }
-
 
 @media only screen and (min-width: 38em) {
   html {
@@ -139,17 +135,17 @@ blockquote {
 }
 
 @media only screen and (min-width: 90em) {
-html {
-  line-height: 2;
-  font-size: 130%;
-  margin-bottom: 1rem;
-}
+  html {
+    line-height: 2;
+    font-size: 130%;
+    margin-bottom: 1rem;
+  }
 
-article {
-  margin-left: 8rem;
-}
+  article {
+    margin-left: 8rem;
+  }
 
-blockquote {
+  blockquote {
     margin: 0 auto;
     padding-right: 2rem;
   }
